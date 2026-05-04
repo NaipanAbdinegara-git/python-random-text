@@ -41,6 +41,3 @@ Contributions are welcome:
 3. Commit your changes  
 4. Push to your branch  
 5. Open a pull request
-
----
-Simple, clean, no unnecessary sections.
