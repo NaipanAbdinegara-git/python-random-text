@@ -17,7 +17,6 @@ python random_generator.py
 
 ## Screenshot
 <p align="center">
-  <img src="/docs/screenshot1.png" width="80%" alt="Example 1"/>
   <img src="/docs/screenshot2.png" width="80%" alt="Example 2"/>
 </p>
 
