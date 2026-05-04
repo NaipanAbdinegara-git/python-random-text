@@ -15,6 +15,11 @@ cd python-random-text
 python random_generator.py
 ```
 
+## Screenshot
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=Example+Output" width="80%" alt="Example Output"/>
+</p>
+
 ## Project Structure
 ```text
 .
