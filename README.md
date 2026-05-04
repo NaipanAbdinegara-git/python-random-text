@@ -17,7 +17,8 @@ python random_generator.py
 
 ## Screenshot
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Example+Output" width="80%" alt="Example Output"/>
+  <img src="/docs/screenshot1.jpg" width="80%" alt="Example 1"/>
+  <img src="/docs/screenshot2.jpg" width="80%" alt="Example 2"/>
 </p>
 
 ## Project Structure
