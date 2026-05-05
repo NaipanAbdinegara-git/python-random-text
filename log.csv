@@ -13,3 +13,16 @@ date,time,action,work
 04/05/2026,21:06:32,Generate dummy text: jp,succeed
 04/05/2026,21:06:33,Save the results to the results.txt file,saved
 04/05/2026,21:06:48,Exit the program,interrupted
+04/05/2026,21:34:55,Generate dummy text: en,succeed
+04/05/2026,21:35:00,Save the results to the results.txt file,saved
+04/05/2026,21:35:30,Generate dummy text: id,succeed
+05/05/2026,19:59:36,Generate dummy text: en,succeed
+05/05/2026,19:59:38,Exit the program,interrupted
+05/05/2026,20:03:22,Exit the program,interrupted
+05/05/2026,20:08:59,Generate dummy text: en,succeed
+05/05/2026,20:09:16,Save the results to the results.txt file,saved
+05/05/2026,20:09:51,Generate dummy text: id,succeed
+05/05/2026,20:10:37,Generate dummy text: ru,succeed
+05/05/2026,20:10:42,Save the results to the results.txt file,saved
+05/05/2026,20:10:57,Generate dummy text: jp,succeed
+05/05/2026,20:11:02,Save the results to the results.txt file,saved
