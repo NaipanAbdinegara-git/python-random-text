@@ -1,41 +1,59 @@
 # python-random-text
 
-![GitHub stars](https://img.shields.io/github/stars/NaipanAbdinegara-git/python-random-text?style=for-the-badge&logo=github)
-![GitHub forks](https://img.shields.io/github/forks/NaipanAbdinegara-git/python-random-text?style=for-the-badge&logo=github)
-![GitHub issues](https://img.shields.io/github/issues/NaipanAbdinegara-git/python-random-text?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/NaipanAbdinegara-git/python-random-text?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/NaipanAbdinegara-git/python-random-text?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/NaipanAbdinegara-git/python-random-text?style=for-the-badge&logo=github)
 
-## Description
-A lightweight Python utility for generating random text (strings, sentences, placeholder content).  
-Useful for testing, prototyping, and dummy data generation.
+## 📝 Description
 
-## Quick Start
+python-random-text is a versatile and lightweight Python library designed to simplify the generation of random strings, sentences, and placeholder content. Perfect for developers needing to populate databases with mock data, build robust test suites, or create rapid prototypes, this utility provides an efficient and intuitive way to generate customizable dummy text on demand.
+
+## ⚡ Quick Start
+
 ```bash
+
+# Clone the repository
 git clone https://github.com/NaipanAbdinegara-git/python-random-text.git
-cd python-random-text
-python random_generator.py
+
+# Install dependencies and run
+
+# (See Development Setup below)
 ```
 
-## Screenshot
+## 📸 Screenshots
+
 <p align="center">
-  <img src="/docs/screenshot2.png" width="80%" alt="Example 2"/>
+  <img src="/docs/screenshot2.png" alt="Feature Showcase" width="80%"/>
 </p>
 
-## Project Structure
-```text
+## 📁 Project Structure
+
+```
+.
+├── docs
+│   ├── screenshot1.png
+│   └── screenshot2.png
+├── engine.py
 ├── lang
 │   ├── en.txt
 │   ├── id.txt
 │   ├── jp.txt
 │   └── ru.txt
 ├── log.csv
-├── random_generator.py
+├── random_gen.py
 └── results.txt
 ```
 
-## Contributing
-Contributions are welcome:
-1. Fork the repository  
-2. Create a branch (`feature/your-feature`)  
-3. Commit your changes  
-4. Push to your branch  
-5. Open a pull request
+## 👥 Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. **Fork** the repository
+2. **Clone** your fork: `git clone https://github.com/NaipanAbdinegara-git/python-random-text.git`
+3. **Create** a new branch: `git checkout -b feature/your-feature`
+4. **Commit** your changes: `git commit -am 'Add some feature'`
+5. **Push** to your branch: `git push origin feature/your-feature`
+6. **Open** a pull request
+
+Please ensure your code follows the project's style guidelines and includes tests where applicable.
+
+---
+*This README was generated with ❤️ by [ReadmeBuddy](https://readmebuddy.com)*
