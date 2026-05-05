@@ -22,7 +22,6 @@ python random_generator.py
 
 ## Project Structure
 ```text
-.
 ├── lang
 │   ├── en.txt
 │   ├── id.txt
