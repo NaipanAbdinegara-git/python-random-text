@@ -56,4 +56,3 @@ Contributions are welcome! Here's how you can help:
 Please ensure your code follows the project's style guidelines and includes tests where applicable.
 
 ---
-*This README was generated with ❤️ by [ReadmeBuddy](https://readmebuddy.com)*
